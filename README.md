@@ -1,3 +1,3 @@
 # demo
 This is a demo repository
-Author- Rizwan
+Author- Rizwan(Nit AP)
